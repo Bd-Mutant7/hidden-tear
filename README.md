@@ -7,6 +7,9 @@
                                                      
 It's a ransomware-like file crypter sample which can be modified for specific purposes. 
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 **Features**
 * Uses AES algorithm to encrypt files.
 * Sends encryption key to a server.
